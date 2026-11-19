@@ -1,7 +1,4 @@
-# 🕋 Bot Quran
-
-
-
+# Bot Quran
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56f3c0ca-6e59-4896-a1ca-2718de3d11ea"
@@ -127,7 +124,7 @@ Feel free to use, modify, and improve the project.
 
 ---
 
-## 🤲 Support
+## Support
 
 This project is completely free and open source.
 
