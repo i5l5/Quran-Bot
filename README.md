@@ -16,11 +16,6 @@
   Includes Makkah Adhan alerts, Quran pages, personalized prayer notifications, and an interactive control panel.
 </p>
 
-<p align="center">
-  <a href="https://quran-bot.netlify.app">
-    <strong>➜ Add Bot to Discord</strong>
-  </a>
-</p>
 
 <p align="center">
   <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -120,13 +115,7 @@ node index.js
 
 ---
 
-## 🔗 Add the Bot
 
-<p align="center">
-  <a href="https://quran-bot.netlify.app">
-    <img src="https://img.shields.io/badge/Add%20to%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Bot to Discord" />
-  </a>
-</p>
 
 ---
 
