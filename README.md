@@ -1,4 +1,4 @@
-# 🕋 Bot Quran | Holy Quran Completion Bot
+# 🕋 Bot Quran
 
 
 
